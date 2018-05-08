@@ -14,6 +14,7 @@ import java.net.URL;
 
 
 // Create a new class, Mountain, that can hold your JSON data
+//URL url = new URL('http://wwwlab.iit.his.se/brom/kurser/mobilprog/dbservice/admin/getdataasjson.php?type=brom');
 
 // Create a ListView as in "Assignment 1 - Toast and ListView"
 
